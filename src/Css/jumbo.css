@@ -1,0 +1,72 @@
+hr.solid{
+    color: rgb(128, 123, 123) !important;
+} 
+
+.title{
+    color: white; 
+    font-size: 40px;
+} 
+
+.details{
+    color: rgb(110, 111, 112);
+} 
+.custom-badge{
+    background-color: green; 
+    border-radius: 20px; 
+    font-size: 10px; 
+    
+} 
+
+.rating{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+} 
+
+.font{
+    color: white;
+} 
+
+.deprication{
+    text-decoration: line-through;
+}
+
+.card-bg{ 
+    padding: 5px;
+    background-color: rgb(17, 17, 17);
+} 
+.sec1{
+    border: 1px solid white;
+} 
+
+.card-display{
+    display: none;
+} 
+
+.custom-badge1{
+    background-color: rgba(13, 0, 128, 0.877); 
+    border-radius: 20px; 
+    font-size: 10px; 
+    
+}  
+
+.offPercent{
+    color: green;
+}
+
+.bestResult{
+    color: yellow;
+} 
+
+.custom-card{
+    background-color: rgb(33, 34, 34); 
+    border: 1px solid aliceblue;
+}
+
+.saving-color1{
+    color: rgb(66, 66, 65);
+} 
+
+.saving-color2{
+    color:rgb(9, 10, 12)
+}
